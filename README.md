@@ -1,13 +1,59 @@
-¡Hola! Soy Diego Guaman, Desarrollador Full Stack apasionado por crear soluciones web eficientes y escalables utilizando tecnologías como React, Node.js, MongoDB y TypeScript. Me encanta enfrentar nuevos retos y aprender continuamente mientras desarrollo aplicaciones desde el frontend hasta el backend. Aquí encontrarás algunos de mis proyectos donde aplico buenas prácticas de desarrollo y metodologías ágiles.
+# ¡Hola, soy Diego Guaman Medina! 👋
 
-Tecnologías clave:
+**Full Stack Developer | React | Node.js | MongoDB**
 
-Frontend: React, HTML5, CSS3, JavaScript, Bootstrap
-Backend: Node.js, Express, MongoDB
-Herramientas: Git, Docker, GitHub Actions
-Siempre busco mejorar y colaborar en proyectos que impulsen la innovación tecnológica. ¡Explora mis repositorios y no dudes en contactarme para colaborar o compartir ideas! 🚀
+---
 
-<!---
-diegoguaman/diegoguaman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Sobre mí
+
+Soy un desarrollador full stack apasionado por la creación de aplicaciones web eficientes y escalables. Con experiencia en **React**, **Node.js** y **MongoDB**, me especializo en el desarrollo de interfaces intuitivas y backend robustos.
+
+- 🌍 Actualmente en Madrid, España.
+- 📫 [diegoguamanmedina@gmail.com](mailto:diegoguamanmedina@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/diego-guaman-medina-full-stack-developer-frontend-backend) | [GitHub](https://github.com/diegoguaman?tab=repositories)
+
+---
+
+### 🌟 Habilidades Técnicas
+
+- **Frontend:** React, HTML5, CSS3, JavaScript, Bootstrap.
+- **Backend:** Node.js, Express, RESTful APIs.
+- **Bases de Datos:** MongoDB.
+- **DevOps:** Docker, Git y GitHub.
+- **Otros:** TypeScript, Photoshop, Illustrator.
+
+---
+
+### 💻 Proyectos Destacados
+
+#### Healthy Web (Ironhack 2024)
+- **Descripción:** Generador de planes de recetas diarias mediante la API de ChatGPT.
+- **Tecnologías:** React, Node.js, Express, MongoDB, Bootstrap, CSS.
+- **Mi contribución:** Desarrollo completo de la interfaz de usuario e integración de la API para generación automática de recetas.
+
+#### Music Live Connector
+- **Descripción:** Aplicación web para conectar músicos y promotores de eventos de forma rápida y sencilla.
+- **Tecnologías:** Node.js, Express, HBS, MongoDB.
+- **Mi contribución:** Implementación de la lógica de backend para la gestión de eventos y usuarios.
+
+---
+
+### 🎓 Educación
+
+- **Ironhack (2024):** Desarrollo de aplicaciones web full stack.
+- **IES Luis Buñuel (2014):** Grado Superior en Diseño Gráfico.
+
+---
+
+### 📊 Estadísticas de GitHub
+
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoguaman&show_icons=true&theme=vue&title_color=2D8AA8&icon_color=2D8AA8)
+
+---
+
+### 🎨 Diseño Minimalista
+
+El color **#2D8AA8** se utiliza como acento para transmitir un diseño profesional y limpio.
+
+¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos desafiantes. 🚀
+
