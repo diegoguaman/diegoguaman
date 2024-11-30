@@ -30,6 +30,8 @@ Soy un desarrollador full stack apasionado por la creación de aplicaciones web 
 - **Descripción:** Generador de planes de recetas diarias mediante la API de ChatGPT.
 - **Tecnologías:** React, Node.js, Express, MongoDB, Bootstrap, CSS.
 - **Mi contribución:** Desarrollo completo de la interfaz de usuario e integración de la API para generación automática de recetas.
+- **Deployment:** El back esta subido en render y el front en vervel y está operativvo 
+- https://healthy-app-eta.vercel.app/
 
 #### Music Live Connector
 - **Descripción:** Aplicación web para conectar músicos y promotores de eventos de forma rápida y sencilla.
