@@ -49,11 +49,3 @@ Soy un desarrollador full stack apasionado por la creación de aplicaciones web 
 
 ![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoguaman&show_icons=true&theme=vue&title_color=2D8AA8&icon_color=2D8AA8)
 
----
-
-### 🎨 Diseño Minimalista
-
-El color **#2D8AA8** se utiliza como acento para transmitir un diseño profesional y limpio.
-
-¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos desafiantes. 🚀
-
