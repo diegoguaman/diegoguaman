@@ -28,6 +28,7 @@ Soy un desarrollador full stack apasionado por la creación de aplicaciones web 
 
 #### Healthy Web (Ironhack 2024)
 - **Descripción:** Generador de planes de recetas diarias mediante la API de ChatGPT.
+- **Vista previa:** [Healthy Web](https://healthy-app-eta.vercel.app/)
 - **Tecnologías:** React, Node.js, Express, MongoDB, Bootstrap, CSS.
 - **Mi contribución:** Desarrollo completo de la interfaz de usuario e integración de la API para generación automática de recetas.
 - **Deployment:** El back esta subido en render y el front en vervel y está operativvo 
