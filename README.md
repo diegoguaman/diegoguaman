@@ -10,7 +10,7 @@ Soy un desarrollador full stack apasionado por la creación de aplicaciones web 
 
 - 🌍 Actualmente en Madrid, España.
 - 📫 [diegoguamanmedina@gmail.com](mailto:diegoguamanmedina@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/diego-guaman-medina-full-stack-developer-frontend-backend) | [GitHub](https://github.com/diegoguaman?tab=repositories)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/diego-guaman-medina-full-stack-developer-frontend-backend)
 
 ---
 
