@@ -1,17 +1,17 @@
-¡Hola, soy Diego Guaman Medina! 👋  
-Full Stack Developer | React | Node.js | MongoDB
+# ¡Hola, soy Diego Guaman Medina! 👋  
+**Full Stack Developer | React | Node.js | MongoDB**
 
 ---
 
 ## Sobre mí  
-Especializado en crear aplicaciones web eficientes y escalables. Experiencia demostrada en React, Node.js y MongoDB.  
-Enfocado en mejorar continuamente mis habilidades en TypeScript, Docker y arquitecturas modernas.  
+Especializado en la creación de aplicaciones web eficientes y escalables. Cuento con experiencia en React, Node.js y MongoDB.  
+Enfocado en mejorar continuamente mis habilidades, actualmente amplio mis conocimientos en TypeScript, Docker, patrones de diseño y arquitecturas modernas.  
 Mi labor se centra en lograr objetivos concretos diseñando interfaces intuitivas y backends robustos.  
 A lo largo de mi carrera, he trabajado en equipos multidisciplinares, colaborando con diseñadores UX, desarrolladores Backend, QA y DevOps.
 
 ---
 
-## Igrowker – Frontend Tech Lead (Programa de Entrenamiento)  
+## Igrowker – Frontend Tech Lead (Programa de Entrenamiento)
 Durante cuatro semanas lideré el equipo de Frontend en un entorno real, aplicando Scrum y Kanban para entregar un MVP sólido y escalable.  
 
 **Lo que aporté y aprendí:**  
@@ -25,15 +25,27 @@ Durante cuatro semanas lideré el equipo de Frontend en un entorno real, aplican
 ---
 
 ## Proyectos Destacados  
-### Healthy Web (Ironhack 2024)  
-Generador de planes de recetas diarias mediante la API de ChatGPT.  
-- Tecnologías: React, Node.js, Express, MongoDB, Bootstrap, CSS.  
-- Mi contribución: interfaz de usuario completa e integración automática con la API de generación de recetas.
+### Pet Care Application  
+**Full Stack Developer | Noviembre 2024 – Actualidad**  
+- Gestión y priorización de Issues en GitHub Projects para backend y frontend, manteniendo el backlog alineado con los objetivos del equipo.  
+- Desarrollo constante de features, aplicando buenas prácticas y asegurando la calidad del código mediante code reviews.  
+- Participación activa en Sprint Planning, definiendo tareas para el sistema de login basado en OAuth y facilitando la colaboración entre Frontend y Backend.  
+- Aprendizaje continuo de nuevas herramientas y metodologías ágiles, reforzando mi capacidad de adaptación en entornos cambiantes.
 
-### Music Live Connector  
-Aplicación web para conectar músicos y promotores de eventos de forma rápida y sencilla.  
-- Tecnologías: Node.js, Express, HBS, MongoDB.  
-- Mi contribución: desarrollo de la lógica de backend para gestión de eventos y usuarios.
+### Easy Order Solution  
+**Full Stack Developer | Febrero 2025**  
+- Coordinación integral de frontend y backend, garantizando una integración fluida y un flujo de despliegue ágil.  
+- Implementación de funcionalidades en React y Vite, con especial atención al rendimiento y la usabilidad.  
+- Diseño de una arquitectura de microservicios con NestJS y PostgreSQL, reforzando mi experiencia en sistemas escalables.  
+- Ejecución de pruebas automatizadas con Jest y adopción de Kanban para optimizar el proceso de entrega.  
+- Desarrollo creativo de soluciones técnicas, combinando rigor en el código y comunicación constante con el equipo.
+
+### Healthy Web  
+**Junior Web Developer | Julio 2024**  
+- Diseño e implementación de la interfaz completa en React.js, enfocándome en la experiencia de usuario.  
+- Construcción de una API REST con Node.js y Express.js, gestionando autenticación con tokens JWT.  
+- Integración de servicios externos (ChatGPT, Nodemailer, Cloudinary) para enriquecer la funcionalidad.  
+- Trabajo colaborativo en un equipo Agile mediante Pair Programming y Trello, fortaleciendo mis habilidades de comunicación y trabajo en equipo.
 
 ---
 
@@ -48,10 +60,11 @@ Aplicación web para conectar músicos y promotores de eventos de forma rápida 
 
 📍 Madrid, España  
 ✉️ diegoguamanmedina@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/diego-guaman-medina) | [GitHub](https://github.com/diegoguaman)  
+🔗 [LinkedIn](https://www.linkedin.com/in/diego-guaman-medina)
 
 
 ### 📊 Estadísticas de GitHub
 
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoguaman&show_icons=true&theme=vue&title_color=2D8AA8&icon_color=2D8AA8)
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoguaman&show_icons=true&theme=vue&title_color=2D8AA8&icon_color=2D8AA8&hide_rank=true)
+
 
