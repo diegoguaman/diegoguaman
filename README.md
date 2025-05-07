@@ -16,7 +16,7 @@ Durante cuatro semanas lideré el equipo de Frontend en un entorno real, aplican
 
 **Lo que aporté y aprendí:**  
 - **Planificación ágil con GitHub Projects**: organicé el backlog, definí hitos y prioricé tareas para mantener un flujo de trabajo transparente.  
-- **Revisión y fusión de código**: gestioné más de 50 pull requests, promoviendo buenas prácticas en TypeScript y React y resolviendo conflictos de merge.  
+- **Revisión y fusión de código**: gestión y revisión de las Pull Request generadas por el equipo, promoviendo buenas prácticas en TypeScript y React y resolviendo conflictos de merge.  
 - **Coordinación multidisciplinar**: mantuve comunicación constante con UX, Backend (endpoints, modelos y contratos de API) y DevOps (variables de entorno y compilación).  
 - **Gestión de imprevistos**: atendí bugs de último minuto reportados por QA y preparé la demo final del MVP ante stakeholders.  
 - **Liderazgo y equipo**: animé un ambiente participativo en stand-ups, recogiendo feedback y distribuyendo tareas para mantener al equipo enfocado y motivado.  
