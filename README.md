@@ -16,7 +16,7 @@ Desarrollador Full Stack con **sólida formación en Ingeniería de Software Nat
 ## 🌟 Proyectos Destacados (Cloud & Arquitectura)
 
 ### 🥇 Sistema de Gestión Académica - Cloud Native Application
-*Proyecto Final | Ingeniería de Software Nativo para la Nube | 2024–2025*
+*Proyecto Final | Ingeniería de Software Nativo para la Nube | 2025*
 
 Sistema completo con arquitectura modular, desplegado en **Kubernetes (K8s/K3D)** y **GCP**.
 
@@ -25,7 +25,7 @@ Sistema completo con arquitectura modular, desplegado en **Kubernetes (K8s/K3D)*
 * **DevOps/Impacto:** Configuración de Docker *multi-stage build* para una optimización de imagen de **~500MB a ~100MB**. Despliegue automatizado con orquestación de contenedores.
 
 ### Igrowker – Colaborador Full Stack (Java/Spring)
-*Proyecto colaborativo guiado por empresa (2025)*
+*Proyecto colaborativo (2025)*
 
 * **Backend:** Participación en el desarrollo Back-end con **Java y Spring Boot**, diseñando servicios REST y gestionando la capa de persistencia SQL.
 * **Frontend:** Contribución en componentes **React y TypeScript**, manteniendo estándares de accesibilidad y rendimiento.
@@ -38,7 +38,7 @@ Sistema completo con arquitectura modular, desplegado en **Kubernetes (K8s/K3D)*
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
 | **Backend Core** | **Java 21**, **Spring Boot 3.5** (Security, Data JPA), GraphQL, REST APIs, NestJS, Node.js. |
-| **DevOps & Cloud** | **Kubernetes (K8s/K3D)**, **Google Cloud Platform (GCP)**, **Docker**, Docker Compose, CI/CD, GitHub Actions. |
+| **DevOps & Cloud** | **Kubernetes (K8s/K3D)**, **Google Cloud Platform (GCP)**, **Docker**, CI/CD, GitHub Actions. |
 | **Testing & Calidad** | **Spring Boot Test**, Pruebas unitarias/integración, React Testing Library, Jest, Code Reviews. |
 | **Frontend** | React.js, TypeScript, JavaScript, HTML/CSS, Tailwind CSS, Material UI. |
 | **Bases de Datos** | **PostgreSQL**, MongoDB, JPA/Hibernate. |
