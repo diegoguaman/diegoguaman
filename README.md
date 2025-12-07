@@ -1,70 +1,61 @@
-# ¡Hola, soy Diego Guaman Medina! 👋  
-**Full Stack Developer | React | Node.js | MongoDB**
+# 🚀 ¡Hola, soy Diego Guaman Medina! 👋
 
----
+## **Cloud Native Full Stack Developer | Java (Spring Boot) & Kubernetes (GCP)**
 
-## Sobre mí  
-Especializado en la creación de aplicaciones web eficientes y escalables. Cuento con experiencia en React, Node.js y MongoDB.  
-Enfocado en mejorar continuamente mis habilidades, actualmente amplio mis conocimientos en TypeScript, Docker, patrones de diseño y arquitecturas modernas.  
-Mi labor se centra en lograr objetivos concretos diseñando interfaces intuitivas y backends robustos.  
-A lo largo de mi carrera, he trabajado en equipos multidisciplinares, colaborando con diseñadores UX, desarrolladores Backend, QA y DevOps.
+Desarrollador Full Stack con **sólida formación en Ingeniería de Software Nativo para la Nube (210h)**. Mi enfoque se centra en diseñar **soluciones escalables**, garantizar la **calidad** mediante pruebas exhaustivas y optimizar procesos de **CI/CD**.
 
----
+### 💡 Mi Valor Diferencial
 
-## Igrowker – Frontend Tech Lead (Programa de Entrenamiento)
-Durante cuatro semanas lideré el equipo de Frontend en un entorno real, aplicando Scrum y Kanban para entregar un MVP sólido y escalable.  
+* **Experiencia Cloud-Native:** Aplicación práctica en despliegue de microservicios con **Kubernetes (K8s)** y **Google Cloud Platform (GCP)**.
+* **Optimización de DevOps:** Logré la **reducción del 80%** en el tamaño de imágenes Docker con *multi-stage builds*.
+* **Arquitectura de Backend:** Desarrollo de APIs duales (**REST** y **GraphQL**) con **Java 21/Spring Boot** y gestión avanzada de bases de datos relacionales (PostgreSQL, `@EntityGraph`).
+* **Colaboración Ágil:** Experiencia en equipos multidisciplinares, gestión de Pull Requests (PRs), *code reviews* y metodologías Scrum/Kanban.
 
-**Lo que aporté y aprendí:**  
-- **Planificación ágil con GitHub Projects**: organicé el backlog, definí hitos y prioricé tareas para mantener un flujo de trabajo transparente.  
-- **Revisión y fusión de código**: gestión y revisión de las Pull Request generadas por el equipo, promoviendo buenas prácticas en TypeScript y React y resolviendo conflictos de merge.  
-- **Coordinación multidisciplinar**: mantuve comunicación constante con UX, Backend (endpoints, modelos y contratos de API) y DevOps (variables de entorno y compilación).  
-- **Gestión de imprevistos**: atendí bugs de último minuto reportados por QA y preparé la demo final del MVP ante stakeholders.  
-- **Liderazgo y equipo**: animé un ambiente participativo en stand-ups, recogiendo feedback y distribuyendo tareas para mantener al equipo enfocado y motivado.  
-- **Comunicación con Product Management**: reporté avances semanales, negocié alcance de entregables y validé el cumplimiento de objetivos y plazos.
+***
 
----
+## 🌟 Proyectos Destacados (Cloud & Arquitectura)
 
-## Proyectos Destacados  
-### Pet Care Application  
-**Full Stack Developer | Noviembre 2024 – Actualidad**  
-- Gestión y priorización de Issues en GitHub Projects para backend y frontend, manteniendo el backlog alineado con los objetivos del equipo.  
-- Desarrollo constante de features, aplicando buenas prácticas y asegurando la calidad del código mediante code reviews.  
-- Participación activa en Sprint Planning, definiendo tareas para el sistema de login basado en OAuth y facilitando la colaboración entre Frontend y Backend.  
-- Aprendizaje continuo de nuevas herramientas y metodologías ágiles, reforzando mi capacidad de adaptación en entornos cambiantes.
+### 🥇 Sistema de Gestión Académica - Cloud Native Application
+*Proyecto Final | Ingeniería de Software Nativo para la Nube | 2024–2025*
 
-### Easy Order Solution  
-**Full Stack Developer | Febrero 2025**  
-- Coordinación integral de frontend y backend, garantizando una integración fluida y un flujo de despliegue ágil.  
-- Implementación de funcionalidades en React y Vite, con especial atención al rendimiento y la usabilidad.  
-- Diseño de una arquitectura de microservicios con NestJS y PostgreSQL, reforzando mi experiencia en sistemas escalables.  
-- Ejecución de pruebas automatizadas con Jest y adopción de Kanban para optimizar el proceso de entrega.  
-- Desarrollo creativo de soluciones técnicas, combinando rigor en el código y comunicación constante con el equipo.
+Sistema completo con arquitectura modular, desplegado en **Kubernetes (K8s/K3D)** y **GCP**.
 
-### Healthy Web  
-**Junior Web Developer | Julio 2024**  
-- Diseño e implementación de la interfaz completa en React.js, enfocándome en la experiencia de usuario.  
-- Construcción de una API REST con Node.js y Express.js, gestionando autenticación con tokens JWT.  
-- Integración de servicios externos (ChatGPT, Nodemailer, Cloudinary) para enriquecer la funcionalidad.  
-- Trabajo colaborativo en un equipo Agile mediante Pair Programming y Trello, fortaleciendo mis habilidades de comunicación y trabajo en equipo.
+* **Arquitectura:** Diseño modular basado en principios **SOLID**. Implementación de APIs **REST + GraphQL** con Spring Security (JWT).
+* **Rendimiento:** Optimización de queries SQL mediante **@EntityGraph** en JPA para evitar problemas N+1.
+* **DevOps/Impacto:** Configuración de Docker *multi-stage build* para una optimización de imagen de **~500MB a ~100MB**. Despliegue automatizado con orquestación de contenedores.
 
----
+### Igrowker – Colaborador Full Stack (Java/Spring)
+*Proyecto colaborativo guiado por empresa (2025)*
 
-## 🌟 Habilidades Técnicas  
-- **Frontend**: React, HTML5, CSS3, JavaScript, Bootstrap, TypeScript, React Native, Material UI, Tailwind.  
-- **Backend**: Node.js, Express, NestJS, FastAPI, C# .NET, RESTful APIs.  
-- **Bases de datos**: MongoDB, PostgreSQL, Mongoose, Entity Framework.  
-- **DevOps & Herramientas**: Docker, Git, GitHub, CI/CD, Swagger.  
-- **Metodologías**: Scrum, Kanban, Agile, DDD, Arquitectura Hexagonal, Microservicios.
+* **Backend:** Participación en el desarrollo Back-end con **Java y Spring Boot**, diseñando servicios REST y gestionando la capa de persistencia SQL.
+* **Frontend:** Contribución en componentes **React y TypeScript**, manteniendo estándares de accesibilidad y rendimiento.
+* **Metodología:** Colaboración activa en la planificación de *sprints* con **Scrum y Kanban**.
 
----
+***
 
-📍 Madrid, España  
-✉️ diegoguamanmedina@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/diego-guaman-medina)
+## 🛠 Habilidades Técnicas
 
+| Categoría | Tecnologías y Herramientas |
+| :--- | :--- |
+| **Backend Core** | **Java 21**, **Spring Boot 3.5** (Security, Data JPA), GraphQL, REST APIs, NestJS, Node.js. |
+| **DevOps & Cloud** | **Kubernetes (K8s/K3D)**, **Google Cloud Platform (GCP)**, **Docker**, Docker Compose, CI/CD, GitHub Actions. |
+| **Testing & Calidad** | **Spring Boot Test**, Pruebas unitarias/integración, React Testing Library, Jest, Code Reviews. |
+| **Frontend** | React.js, TypeScript, JavaScript, HTML/CSS, Tailwind CSS, Material UI. |
+| **Bases de Datos** | **PostgreSQL**, MongoDB, JPA/Hibernate. |
+| **Metodologías** | **Scrum**, Kanban, Agile, SOLID, Pair Programming. |
+
+***
+
+## 🌐 Contacto y Enlaces
+
+📍 Madrid, España
+
+📧 **Email:** diegoguamanmedina@gmail.com
+
+🔗 **LinkedIn (Ver especialización Cloud):** [https://www.linkedin.com/in/diego-guaman-medina](https://www.linkedin.com/in/diego-guaman-medina)
+
+🔗 **Portfolio (Próximamente):** [Tu URL de Portfolio]
 
 ### 📊 Estadísticas de GitHub
 
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoguaman&show_icons=true&theme=vue&title_color=2D8AA8&icon_color=2D8AA8&hide_rank=true)
-
-
+![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoguaman&show_icons=true&theme=buefy&title_color=2D8AA8&icon_color=2D8AA8&hide_rank=true&count_private=true)
