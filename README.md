@@ -54,4 +54,4 @@ Sistema completo con arquitectura modular, desplegado en **Kubernetes (K8s/K3D)*
 
 🔗 **LinkedIn:** [https://www.linkedin.com/in/diego-guaman-medina]
 
-🔗 **Portfolio (Próximamente):** [https://diegoguamandev.com/]
+🔗 **Portfolio:** [https://diegoguamandev.com/]
