@@ -15,7 +15,7 @@ Desarrollador Full Stack con **sólida formación en Ingeniería de Software Nat
 
 ## 🌟 Proyectos Destacados (Cloud & Arquitectura)
 
-### 🥇 Sistema de Gestión Académica - Cloud Native Application
+### 🥇 Academia Multi-Centro - Cloud Native Application
 *Proyecto Final | Ingeniería de Software Nativo para la Nube | 2025*
 
 Sistema completo con arquitectura modular, desplegado en **Kubernetes (K8s/K3D)** y **GCP**.
