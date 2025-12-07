@@ -52,10 +52,6 @@ Sistema completo con arquitectura modular, desplegado en **Kubernetes (K8s/K3D)*
 
 📧 **Email:** diegoguamanmedina@gmail.com
 
-🔗 **LinkedIn (Ver especialización Cloud):** [https://www.linkedin.com/in/diego-guaman-medina](https://www.linkedin.com/in/diego-guaman-medina)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/diego-guaman-medina]
 
-🔗 **Portfolio (Próximamente):** [Tu URL de Portfolio]
-
-### 📊 Estadísticas de GitHub
-
-![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegoguaman&show_icons=true&theme=buefy&title_color=2D8AA8&icon_color=2D8AA8&hide_rank=true&count_private=true)
+🔗 **Portfolio (Próximamente):** [https://diegoguamandev.com/]
