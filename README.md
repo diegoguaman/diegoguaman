@@ -2,7 +2,7 @@
 
 ## **Cloud Native Full Stack Developer | Java (Spring Boot) & Kubernetes (GCP)**
 
-Desarrollador Full Stack con **sólida formación en Ingeniería de Software Nativo para la Nube (210h)**. Mi enfoque se centra en diseñar **soluciones escalables**, garantizar la **calidad** mediante pruebas exhaustivas y optimizar procesos de **CI/CD**.
+Desarrollador Full Stack con **sólida formación en Ingeniería de Software Nativo para la Nube**. Mi enfoque se centra en diseñar **soluciones escalables**, garantizar la **calidad** mediante pruebas exhaustivas y optimizar procesos de **CI/CD**.
 
 ### 💡 Mi Valor Diferencial
 
